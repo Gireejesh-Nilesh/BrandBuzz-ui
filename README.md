@@ -71,7 +71,7 @@ src/
 ## Installation & Setup
 
 1. Clone the repository
-   git clone <repository-url>
+   git clone https://github.com/Gireejesh-Nilesh/BrandBuzz-ui.git
 
 2. Navigate to the project directory
    cd brandbuzz-ui-clone
